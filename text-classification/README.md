@@ -13,3 +13,15 @@ Generalized NLP models have been improved recently and could be used with less e
 			| ELMO  		| 0.83420  	|
 			| ULMFIT  		| 0.92960  	|
 			| BERT  		| 0.92116  	|
+
+# Model Diagrams
+## HAN
+
+![HAN Word Encoder model](word-encoder.png?raw=true "HAN Word Encoder model")
+
+![HAN Sentence Encoder model](sentence-encoder.png?raw=true "HAN Sentence Encoder model")
+
+
+## ELMO
+
+![ELMO model](elmo.png?raw=true "ELMO model")
