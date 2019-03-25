@@ -1,0 +1,7 @@
+md5: 9deda3cc5d5361608c3fbaba0bbf362d
+outs:
+- cache: true
+  md5: e90efcb83d69faf99fcab8b0255024de
+  metric: false
+  path: data/creditcard.csv
+wdir: ..
